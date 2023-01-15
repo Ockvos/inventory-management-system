@@ -3,7 +3,8 @@
 This application provides a basic inventory management system. Individual parts can be added, modified, and deleted. These parts can be combined to create a product containing those parts. Code also contains a search engine allowing user to locate items based on name or ID.
 
 
-Below are screenshots of the application:
+
+### Below are screenshots of the application:
 
 Main Menu Screen: <br></br>
 ![Main Menu Screen](/images/MainMenu.png) <br></br>
@@ -14,7 +15,7 @@ Add Part Screen: <br></br>
 Add Product Screen: <br></br>
 ![Add Product Screen](/images/AddProduct.png) <br></br>
 
-Features:
+### Features:
 * Ability to add, modify, and delete parts.
 * Ability to add, modify, and delete products.
 * Parts can be selected and combined into products.
@@ -23,6 +24,6 @@ Features:
 * Ability to search for items using ID or name.
 
 
-The following technology is utilized:
+### The following technology is utilized:
 * Java 16.0.2
 * JavaFX 17.0.2
